@@ -2,3 +2,4 @@ google-generativeai
 Flask
 python-dotenv
 gunicorn
+werkzeug
