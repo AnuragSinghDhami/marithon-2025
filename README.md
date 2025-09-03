@@ -51,7 +51,7 @@ source venv/bin/activate
 
 ### 4. Install the required packages
 ```bash
-pip install Flask google-generativeai python-dotenv PyPDF2 python-docx
+pip install Flask google-generativeai python-dotenv python-docx
 ```
 
 ### 5. set up Environment variables
