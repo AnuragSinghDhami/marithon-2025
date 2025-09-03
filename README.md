@@ -4,31 +4,6 @@ A web-based application that uses **Google's Gemini AI** to automatically extrac
 
 ---
 
-## 📸 Screenshots
-Here are some sample screenshots of the application:
-
-### 1. Front Page UI  
-![Screenshot 1](static/Screenshot%202025-08-20%20225054.png)  
-
-### 2. Uploading a Document (PDF or DOCX)  
-![Screenshot 2](static/Screenshot%202025-08-20%20225114.png)  
-
-### 3. Sample PDF Used for Extraction  
-![Screenshot 6](static/Screenshot%202025-08-20%20225232.png)  
-
-### 4. Extraction Results with Download Options (CSV or JSON)  
-![Screenshot 3](static/Screenshot%202025-08-20%20225138.png)  
-
-### 5. Extracted Data in CSV Format  
-![Screenshot 4](static/Screenshot%202025-08-20%20225202.png)  
-
-### 6. Extracted Data in JSON Format  
-![Screenshot 5](static/Screenshot%202025-08-20%20225220.png)  
- 
-
-
----
-
 ## ✨ Features
 - **AI-Powered Extraction**: Leverages the Google Gemini Flash model for intelligent and accurate data extraction.  
 - **Multi-Format Support**: Accepts both PDF (`.pdf`) and Word (`.docx`) documents.  
